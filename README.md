@@ -3,10 +3,12 @@
 A dedicated **New Booking Entry** interface built for a **Logistics ERP system**. This is a standalone frontend application designed for speed, accuracy, and ease of use for internal office staff.
 
 ---
+<img width="1918" height="906" alt="Screenshot 2026-02-03 224711" src="https://github.com/user-attachments/assets/c103bb38-5c6c-4a32-ae8b-7a7d10eac779" />
 
 ## 🧱 Tech Stack
 
-* **UI Library:** React.js
+* **UI Library:**
+ React.js
 * **Build Tool:** Vite
 * **Language:** JavaScript
 * **Styling:** Tailwind
