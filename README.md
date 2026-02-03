@@ -1,10 +1,12 @@
 #  New Booking Entry 
 
-I originally built this feature using JavaScript, with my own structure — separate validation logic, custom hooks, and clear state handling. That’s the stack I’m most comfortable with, and where I have a strong understanding of what’s happening under the hood.
+I originally built this feature using JavaScript, with my own structure  separate validation logic, custom hooks, and clear state handling. That’s the stack I’m most comfortable with, and where I have a strong understanding of what’s happening under the hood.
 
 I later had some extra time and decided to rebuild the same feature using TypeScript and Mantine to explore a more modern stack and UI library. While I used ChatGPT as a helper during this phase, the goal was learning and experimentation rather than claiming deep expertise in Mantine.
 
-I’m including this repository as well to show my ability to adapt, learn new tools quickly, and work with TypeScript-based setups — even if it’s not my primary comfort zone yet.
+I’m including this repository as well to show my ability to adapt, learn new tools quickly, and work with TypeScript-based setups  even if it’s not my primary comfort zone yet.
+
+Using TS & MANTINE - https://github.com/ArjunManoj55/Ociuz-ts-mantine
 
 
 
