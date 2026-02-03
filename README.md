@@ -1,4 +1,4 @@
-#  New Booking Entry 
+#  READ ME!!! 
 
 I originally built this feature using JavaScript, with my own structure  separate validation logic, custom hooks, and clear state handling. That’s the stack I’m most comfortable with, and where I have a strong understanding of what’s happening under the hood.
 
