@@ -2,7 +2,8 @@
 export const validateSenderInfo = (name, value) => {
   switch (name) {
     case "fullName":
-      return value.trim().length < 3 ? "Minimum 3 characters required" : "";
+     return value.trim().length === 0 ? "This field is required" : "";
+
     case "mobileNumber":
       return value.trim().length !== 10 ? "Mobile number must be 10 digits" : "";
     case "email":
@@ -17,9 +18,9 @@ export const validateSenderInfo = (name, value) => {
 export const validateReceiverInfo = (name, value) => {
   switch (name) {
     case "fullName":
-      return value.trim().length < 3 ? "Minimum 3 characters required" : "";
+     return value.trim().length === 0 ? "This field is required" : "";
     case "address":
-      return value.trim().length < 10 ? "Enter a valid address" : "";
+     return value.trim().length === 0 ? "This field is required" : "";
     default:
       return "";
   }
